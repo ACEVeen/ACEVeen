@@ -1,5 +1,4 @@
   @ACEVeen 
-www.turkhackteam.org - ACEVeen
 Telegram: ACEVeen
 
 <!---
